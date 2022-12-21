@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Netoo.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and stuff...
+- 🌱 I’m currently learning Python and stuff... 
 - 📫 How to reach me: netostt91@gmail.com / discord: netoo#2779
 
 <!---
